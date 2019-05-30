@@ -1,0 +1,11 @@
+C:\Users\Betty\Desktop\Division\bin\Debug\netcoreapp2.2\Division.deps.json
+C:\Users\Betty\Desktop\Division\bin\Debug\netcoreapp2.2\Division.runtimeconfig.json
+C:\Users\Betty\Desktop\Division\bin\Debug\netcoreapp2.2\Division.runtimeconfig.dev.json
+C:\Users\Betty\Desktop\Division\bin\Debug\netcoreapp2.2\Division.dll
+C:\Users\Betty\Desktop\Division\bin\Debug\netcoreapp2.2\Division.pdb
+C:\Users\Betty\Desktop\Division\obj\Debug\netcoreapp2.2\Division.csprojAssemblyReference.cache
+C:\Users\Betty\Desktop\Division\obj\Debug\netcoreapp2.2\Division.csproj.CoreCompileInputs.cache
+C:\Users\Betty\Desktop\Division\obj\Debug\netcoreapp2.2\Division.AssemblyInfoInputs.cache
+C:\Users\Betty\Desktop\Division\obj\Debug\netcoreapp2.2\Division.AssemblyInfo.cs
+C:\Users\Betty\Desktop\Division\obj\Debug\netcoreapp2.2\Division.dll
+C:\Users\Betty\Desktop\Division\obj\Debug\netcoreapp2.2\Division.pdb
